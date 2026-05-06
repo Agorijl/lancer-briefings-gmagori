@@ -1,19 +1,19 @@
 {
   "initialSlug": "001",
-  "planetPath": "/planet.webm",
+  "planetPath": "/planet.gif",
   "animate": true,
   "defaultTitle": "NNav |",
-  "icon": "/faction-logos/ssc.svg",
+  "icon": "/faction-logos/union.svg",
   "header": {
-    "planet": "Heiligtum-6 'Deep Blue'",
+    "planet": "Spumoni-4 'Aice'",
     "year": "5017u",
-    "system": "Heiligtum",
-    "gate": "Rào Cỏ",
-    "ring": "Annamite",
+    "system": "Spumoni",
+    "gate": "Cerro Mohinora",
+    "ring": "Sierra Madre",
     "headerTitle": "BRP-ILV",
     "headerSubtitle": "Neapolitan Navigator",
     "subheaderTitle": "Contract Work",
-    "subheaderSubtitle": "Sierra-Whiskey-Alpha-Golf"
+    "subheaderSubtitle": "Bravo-Romeo-November-Viktor"
   },
   "pilotSpecialInfo": {}
 }
