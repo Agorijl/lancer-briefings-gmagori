@@ -1,6 +1,6 @@
 {
   "initialSlug": "001",
-  "planetPath": "/planet.gif",
+  "planetPath": "/public/planet.gif",
   "animate": true,
   "defaultTitle": "NNav |",
   "icon": "/faction-logos/union.svg",

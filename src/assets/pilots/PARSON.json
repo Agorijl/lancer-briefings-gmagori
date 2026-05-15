@@ -1,9 +1,9 @@
 {
     "id": "ba98926e-e70b-46e6-a364-467216820e76",
     "level": 0,
-    "callsign": "Parson",
-    "name": "Valiantsina Veselic",
-    "player_name": "",
+    "callsign": "N/A",
+    "name": "Ben Al-Jeri",
+    "player_name": "Agori",
     "status": "Active",
     "dead": false,
     "text_appearance": "",
@@ -11,12 +11,12 @@
     "history": "",
     "quirks": [],
     "current_hp": 6,
-    "background": "Criminal",
+    "background": "Far-Field Team",
     "resistances": [],
     "mechs": [
         {
             "id": "f1c59e67-22c9-4aa3-9efe-9a2e40377cfa",
-            "name": "This Is Not God",
+            "name": "Gimme S'more",
             "notes": "",
             "gm_note": "",
             "frame": "mf_standard_pattern_i_everest",
@@ -43,7 +43,7 @@
             "reactor_destroyed": false,
             "core_active": false,
             "cc_ver": "ERR",
-            "lastModified": "Wed Feb 19 2025 12:46:46 GMT-0600 (Central Standard Time)",
+            "lastModified": "Fri May 15 2026 04:38:46 UTC+8 (UTC)",
             "isDeleted": false,
             "expireTime": "",
             "deleteTime": "",
@@ -71,8 +71,8 @@
                             "flavorDescription": ""
                         },
                         {
-                            "id": "ms_pattern_a_smoke_charges",
-                            "uses": 3,
+                            "id": "ms_technophile_3",
+                            "uses": 0,
                             "destroyed": false,
                             "cascading": false,
                             "flavorName": "",
